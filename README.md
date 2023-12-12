@@ -1,16 +1,23 @@
-### Hi there 👋
+# Tech with Gates
 
-<!--
-**techwithgates/techwithgates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+Hi there! I'm Abel, a web developer specializing in backend development. I will be developing useful and more generic type open source projects on this GitHub Profile.
 
-Here are some ideas to get you started:
+## Technologies & Tools
+### Frontend
+- HTML, CSS & Javascript
+- React
+- Tailwind
+### Backend
+- Python
+- Django & Django REST framework
+- ExpressJS (NodeJS)
+- Golang
+### Containerization Platform
+- Docker & Docker compose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Easy Admin Panel (EAP)](https://github.com/techwithgates/goadmin)
+
+## Contact
+You can contact me on [Reddit](https://www.reddit.com/user/techwithgates/) or on Discord (username: techwithgates)
