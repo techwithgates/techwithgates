@@ -18,6 +18,7 @@ Hi there! I'm Abel, a web developer specializing in backend development. I will 
 
 ## Projects
 - [Easy Admin Panel (EAP)](https://github.com/techwithgates/goadmin)
+- [Easy Schedule](https://github.com/techwithgates/easy-schedule)
 
 ## Contact
 You can contact me on [Reddit](https://www.reddit.com/user/techwithgates/) or on Discord (username: techwithgates)
