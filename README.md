@@ -1,7 +1,7 @@
 # Tech with Gates
 
 ## Introduction
-Hi there! I'm Abel, a web developer specializing in backend development. I will be developing useful and more generic type open source projects on this GitHub Profile.
+Hi there! I'm Abel, a web developer specializing in backend development. I will be developing useful open source projects on this GitHub Profile and if you would like to see my private projects, kindly contact me.
 
 ## Technologies & Tools
 ### Frontend
